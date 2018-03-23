@@ -1,0 +1,5 @@
+cs1\tc\framework\TestBase.class
+cs1\tc\framework\UITestBase.class
+cs1\tc\framework\TargetProcess.class
+cs1\tc\framework\ReportGenerator.class
+cs1\tc\framework\BasicUtil.class
